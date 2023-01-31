@@ -3,9 +3,9 @@ Librairie de notre robot LazyBot comprenant 5 fonctions.
 
 Nous avons les fonctions du giroscope donc à savoir: 
 
--axe_y()
--axe_x()
--axe_z()
+axe_y()
+axe_x()
+axe_z()
 
 Nous avons également une fonction pour les capteurs ultrasonic du robot:
 

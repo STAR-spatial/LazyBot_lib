@@ -1,6 +1,0 @@
-	LazyBot	KEYWORD1
-	Parchoc	KEYWORD1
-	Capteur_ultrasonic		KEYWORD1
-	axe_y	KEYWORD1
-	axe_x	KEYWORD1
-	axe_z	KEYWORD1
